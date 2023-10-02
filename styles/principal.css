@@ -1,0 +1,16 @@
+
+.principal {
+    background-color: rgb(215, 215, 215);
+    color: black;
+    height: 650px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.texto {
+align-items: center;
+font-size: 30px;
+}
+.img {
+    height: 400px;
+}

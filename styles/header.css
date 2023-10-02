@@ -1,0 +1,32 @@
+header {
+    background-color: rgb(66, 65, 65);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.titulo {
+    display: flex;
+    padding:10px;
+    justify-content: center;
+}
+.imagem{
+    height: 100px;
+}
+.nome {
+    font-size: 40px;
+    align-items: center;
+}
+.nav {
+    display: flex;
+}
+.item {
+    color: aliceblue;
+    font-size: 25px;
+    padding: 30px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.link {
+    text-decoration: none;
+    color: aliceblue
+}
